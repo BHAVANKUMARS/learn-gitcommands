@@ -1,1 +1,122 @@
 Test Single File Modified
+
+Types of Project
+
+1)Scratch Development
+
+2)Maintence project(emudra)
+
+3)Migration
+
+
+
+
+Screen1
+
+customer
+otp
+otp verified
+
+
+new customer 
+ask aadhar number
+send otp to register mobile number in aadhar
+otp verify
+
+sbi account number 
+
+request for loan amount 1000 to 100000
+
+SBI BANK API - sbi account number - name,dob ,pincode (SBI BANK details)
+
+SBI BANK API - last 6 months credit debit
+
+ 
+
+//matrix logic  
+
+how amount a customer is eligible ?
+
+50,000 - Non-referral 
+
+50,0000 - details mismatch 
+
+1,00,000 - Referral
+
+
+old customer 
+lands on last screen
+
+
+SCREEN2
+
+personal details
+
+pan autofetch
+
+SBI BANK API - near me bank details autofetch
+
+
+SCREEN3
+
+business details
+
+type of loan - manufacture , service
+
+//please vist near sbi, your 
+
+how of many years doing ?
+
+
+Rule engine 50  age & years 
+
+crif report - credit & debit details
+
+
+//please vist our sbi bank 
+
+Screen 4
+Esign page - legal disk (ask aadhar details - aadhar number )
+
+SBI Bank - name ,dob,pincode
+
+
+Loan Application 
+
+
+Screen 5
+
+sanction page
+
+Scrren 6 
+
+pending
+
+SBI Bank - Pal Api (Amount sanction Api)
+
+
+Bank related  
+
+check customer have Already account in SBI Bank 
+Pal Api (Amount sanction Api)
+
+
+
+
+LDB 
+
+Home
+
+Referral 
+
+Non-Referral pincode mistmatch,name mismatch lapsed more than 30 //delete 
+
+
+EDB
+
+Total count(referral,non-referral,mismatch non-referral) progress sanction disbusred, download excel file 
+
+fetch record based on state, circle, zone,bank address
+
+ 
+
